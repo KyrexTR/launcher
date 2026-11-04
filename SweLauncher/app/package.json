@@ -1,0 +1,11 @@
+{
+  "name": "swelauncher",
+  "productName": "SweLauncher",
+  "version": "1.0.0",
+  "description": "SweLauncher #Best",
+  "main": "dist-electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "Telegram https://t.me/xSweza"
+  }
+}
